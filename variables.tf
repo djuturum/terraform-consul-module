@@ -75,7 +75,7 @@ variable "key_path" {
 }
 
 variable "region" {
-  default     = "us-east-1"
+  default     = "eu-central-1"
   description = "The region of AWS, for AMI lookups."
 }
 
